@@ -88,19 +88,7 @@ get_articles('https://www.ptt.cc/bbs/Stock/index.html')
 
 
 <div style="overflow:scroll;height:300px; width:700px">
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe" align = "center">
   <thead style="text-align: center;">
     <tr style="text-align: center;">
