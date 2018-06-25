@@ -265,19 +265,6 @@ Crawler_PTT_Push('https://www.ptt.cc/bbs/Stock/M.1529844863.A.6E8.html')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: center;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: center;">
