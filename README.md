@@ -107,7 +107,7 @@ get_articles('https://www.ptt.cc/bbs/Stock/index.html')
       <td>6/24</td>
       <td>11</td>
       <td>[新聞] 中華電信再招考271人 年薪至少16個月</td>
-      <td>https://www.ptt.cc/bbs/Stock/M.1529844863.A.6E...</td>
+      <td>https://www.ptt.cc/bbs/Stock/M.1529844863.A.6E.html...</td>
       <td>※ [本文轉錄自 cjol 信箱]    作者: orz44444 (台灣會亂是因為修羅...</td>
     </tr>
     <tr>
@@ -115,7 +115,7 @@ get_articles('https://www.ptt.cc/bbs/Stock/index.html')
       <td>6/24</td>
       <td>19</td>
       <td>[新聞] 傳比特大陸將砍50％訂單 券商：台積電Q3</td>
-      <td>https://www.ptt.cc/bbs/Stock/M.1529847007.A.F9...</td>
+      <td>https://www.ptt.cc/bbs/Stock/M.1529847007.A.F9.html...</td>
       <td>1.原文連結：  http://news.ltn.com.tw/news/busin...</td>
     </tr>
     <tr>
@@ -123,7 +123,7 @@ get_articles('https://www.ptt.cc/bbs/Stock/index.html')
       <td>6/24</td>
       <td>20</td>
       <td>[新聞] 茂迪屏縣種電跨出不利耕地綠能區</td>
-      <td>https://www.ptt.cc/bbs/Stock/M.1529847524.A.69...</td>
+      <td>https://www.ptt.cc/bbs/Stock/M.1529847524.A.69.html...</td>
       <td>-------------------------------發文提醒---------...</td>
     </tr>
     <tr>
