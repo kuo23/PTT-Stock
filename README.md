@@ -456,9 +456,3 @@ Crawler_PTT_Push('https://www.ptt.cc/bbs/Stock/M.1529844863.A.6E8.html')
 
 [簡報連結](https://slideshare.net/ssuserf1b9cf/pythonpycontw2017)
  [參考資料: SnowNLP使用範例](https://github.com/isnowfy/snownlp/)
-## 五、 結論
-
----
-# Reference
-
-[簡報連結](https://slideshare.net/ssuserf1b9cf/pythonpycontw2017)
