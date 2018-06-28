@@ -32,13 +32,13 @@ PTT中的 Stock 版長期為熱門看板，同時約有千人至萬人不等同�
 又由於PTT是屬於bbs留言板，網站架構簡單，也沒有驗證機器人，比較好爬。
 
 ### 2. 爬標題
-Step 1. 從網頁版開始爬：
+- 從網頁版開始爬：
 ![](https://i.imgur.com/cKs6kyA.png)
 
 PTT的網頁板將每篇留言版的文章轉成網頁架構，每篇文章都有獨立的網址，很好爬。
 ![](https://i.imgur.com/oNW850c.png)
 
-把每天貼文的推文數、標題、內文連結、日期爬下來。
+- 把每天貼文的推文數、標題、內文連結、日期爬下來。
 
 <div style="overflow:scroll;height:300px;">
 
@@ -81,7 +81,7 @@ def get_articles(url):
 ```
 </div>
 
-執行的結果。
+- 執行的結果
 
 ```python
 get_articles('https://www.ptt.cc/bbs/Stock/index.html')
