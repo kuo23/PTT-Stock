@@ -402,7 +402,7 @@ Crawler_PTT_Push('https://www.ptt.cc/bbs/Stock/M.1529844863.A.6E8.html')
 
 
  
-### 2. 參數定義與權重設計
+### 3. 參數定義與權重設計
 
 #### 參數定義
 
