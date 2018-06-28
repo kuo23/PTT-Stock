@@ -81,7 +81,7 @@ def get_articles(url):
 ```
 </div>
 
-執行的結果大概是這種感覺。
+執行的結果。
 
 ```python
 get_articles('https://www.ptt.cc/bbs/Stock/index.html')
